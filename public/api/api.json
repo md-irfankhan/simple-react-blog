@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "coverImg": "https://picsum.photos/id/101/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/men/11.jpg",
+      "authorName": "Alex Smith",
+      "postedDate": "2025-01-01",
+      "readingTime": "5 min read",
+      "blogTitle": "Mastering JavaScript Closures",
+      "hashtags": ["#JavaScript", "#WebDev", "#Programming"]
+    },
+    {
+      "id": "2",
+      "coverImg": "https://picsum.photos/id/102/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/12.jpg",
+      "authorName": "Jordan Lee",
+      "postedDate": "2025-01-02",
+      "readingTime": "6 min read",
+      "blogTitle": "10 Tips for Healthy Eating",
+      "hashtags": ["#Health", "#Nutrition", "#Wellness"]
+    },
+    {
+      "id": "3",
+      "coverImg": "https://picsum.photos/id/103/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/men/13.jpg",
+      "authorName": "Taylor Patel",
+      "postedDate": "2025-01-03",
+      "readingTime": "4 min read",
+      "blogTitle": "The Evolution of Electric Vehicles",
+      "hashtags": ["#EV", "#Sustainability", "#Auto"]
+    },
+    {
+      "id": "4",
+      "coverImg": "https://picsum.photos/id/104/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/14.jpg",
+      "authorName": "Morgan Garcia",
+      "postedDate": "2025-01-04",
+      "readingTime": "7 min read",
+      "blogTitle": "Backpacking Through South America",
+      "hashtags": ["#Travel", "#Adventure", "#Backpacking"]
+    },
+    {
+      "id": "5",
+      "coverImg": "https://picsum.photos/id/105/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/men/15.jpg",
+      "authorName": "Casey Nguyen",
+      "postedDate": "2025-01-05",
+      "readingTime": "5 min read",
+      "blogTitle": "A Beginner’s Guide to Ceramic Pottery",
+      "hashtags": ["#Crafts", "#DIY", "#Art"]
+    },
+    {
+      "id": "6",
+      "coverImg": "https://picsum.photos/id/106/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/16.jpg",
+      "authorName": "Riley Johnson",
+      "postedDate": "2025-01-06",
+      "readingTime": "8 min read",
+      "blogTitle": "Investing in Your First Rental Property",
+      "hashtags": ["#RealEstate", "#Investing", "#PassiveIncome"]
+    },
+    {
+      "id": "7",
+      "coverImg": "https://picsum.photos/id/107/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/men/17.jpg",
+      "authorName": "Jamie Brown",
+      "postedDate": "2025-01-07",
+      "readingTime": "6 min read",
+      "blogTitle": "From Sketch to Screen: UI/UX Fundamentals",
+      "hashtags": ["#Design", "#UIUX", "#Product"]
+    },
+    {
+      "id": "8",
+      "coverImg": "https://picsum.photos/id/108/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/18.jpg",
+      "authorName": "Sydney Martinez",
+      "postedDate": "2025-01-08",
+      "readingTime": "5 min read",
+      "blogTitle": "How to Grow an Organic Garden",
+      "hashtags": ["#Gardening", "#Organic", "#Home"]
+    },
+    {
+      "id": "9",
+      "coverImg": "https://picsum.photos/id/109/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/men/19.jpg",
+      "authorName": "Drew Davis",
+      "postedDate": "2025-01-09",
+      "readingTime": "7 min read",
+      "blogTitle": "Building Resilience Through Mindfulness",
+      "hashtags": ["#Mindfulness", "#MentalHealth", "#Resilience"]
+    },
+    {
+      "id": "10",
+      "coverImg": "https://picsum.photos/id/110/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/20.jpg",
+      "authorName": "Kendall Clark",
+      "postedDate": "2025-01-10",
+      "readingTime": "4 min read",
+      "blogTitle": "The Science Behind Intermittent Fasting",
+      "hashtags": ["#Fasting", "#Science", "#Wellbeing"]
+    },
+
+
+    {
+      "id": "100",
+      "coverImg": "https://picsum.photos/id/200/1200/800",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/120.jpg",
+      "authorName": "casey Martinez",
+      "postedDate": "2025-04-10",
+      "readingTime": "6 min read",
+      "blogTitle": "The Science Behind Intermittent Fasting (9)",
+      "hashtags": ["#Fasting", "#Science", "#Wellbeing"]
+    }
+  ]
+}
