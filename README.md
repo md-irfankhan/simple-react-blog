@@ -10,4 +10,4 @@ How to run this code:
 
 ## Live Link
 
- [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)  
+ [https://simple-react-blogg.netlify.app/](https://simple-react-blogg.netlify.app/)  
