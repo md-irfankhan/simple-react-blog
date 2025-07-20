@@ -1,6 +1,6 @@
 import BookMarkes from "./BookMarkes/BookMarkes";
 import SpentTime from "./SpentTime/SpentTime";
-
+import PropTypes from 'prop-types';
 const Bookmark = ({bookmark,spent}) => {
     return (
         <div>
@@ -18,5 +18,9 @@ const Bookmark = ({bookmark,spent}) => {
         </div>
     );
 };
+Bookmark.propTypes={
+    bookmark:PropTypes.object,
+    spent:PropTypes.number
+}
 
 export default Bookmark;

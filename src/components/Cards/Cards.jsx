@@ -1,5 +1,6 @@
 
 import { CiBookmarkPlus } from "react-icons/ci";
+import PropTypes from 'prop-types';
 const Cards = ({blog, handleBookmark,handleMark}) => {
     const {coverImg,authorPhoto,authorName,postedDate,readingTime,blogTitle,hashtags}=blog
     return (
@@ -37,5 +38,9 @@ const Cards = ({blog, handleBookmark,handleMark}) => {
         </div>
     );
 };
-
+Cards.propTypes={
+    blog:PropTypes.object,
+    handleBookmark:PropTypes.func,
+    handleMark:PropTypes.func
+}
 export default Cards;
