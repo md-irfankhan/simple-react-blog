@@ -6,7 +6,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/men/11.jpg",
       "authorName": "Alex Smith",
       "postedDate": "2025-01-01",
-      "readingTime": "5 min read",
+      "readingTime": 5,
       "blogTitle": "Mastering JavaScript Closures",
       "hashtags": ["#JavaScript", "#WebDev", "#Programming"]
     },
@@ -16,7 +16,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/12.jpg",
       "authorName": "Jordan Lee",
       "postedDate": "2025-01-02",
-      "readingTime": "6 min read",
+      "readingTime": 6,
       "blogTitle": "10 Tips for Healthy Eating",
       "hashtags": ["#Health", "#Nutrition", "#Wellness"]
     },
@@ -26,7 +26,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/men/13.jpg",
       "authorName": "Taylor Patel",
       "postedDate": "2025-01-03",
-      "readingTime": "4 min read",
+      "readingTime": 4,
       "blogTitle": "The Evolution of Electric Vehicles",
       "hashtags": ["#EV", "#Sustainability", "#Auto"]
     },
@@ -36,7 +36,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/14.jpg",
       "authorName": "Morgan Garcia",
       "postedDate": "2025-01-04",
-      "readingTime": "7 min read",
+      "readingTime": 7,
       "blogTitle": "Backpacking Through South America",
       "hashtags": ["#Travel", "#Adventure", "#Backpacking"]
     },
@@ -46,7 +46,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/men/15.jpg",
       "authorName": "Casey Nguyen",
       "postedDate": "2025-01-05",
-      "readingTime": "5 min read",
+      "readingTime": 5,
       "blogTitle": "A Beginner’s Guide to Ceramic Pottery",
       "hashtags": ["#Crafts", "#DIY", "#Art"]
     },
@@ -56,7 +56,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/16.jpg",
       "authorName": "Riley Johnson",
       "postedDate": "2025-01-06",
-      "readingTime": "8 min read",
+      "readingTime": 8,
       "blogTitle": "Investing in Your First Rental Property",
       "hashtags": ["#RealEstate", "#Investing", "#PassiveIncome"]
     },
@@ -66,7 +66,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/men/17.jpg",
       "authorName": "Jamie Brown",
       "postedDate": "2025-01-07",
-      "readingTime": "6 min read",
+      "readingTime": 6,
       "blogTitle": "From Sketch to Screen: UI/UX Fundamentals",
       "hashtags": ["#Design", "#UIUX", "#Product"]
     },
@@ -76,7 +76,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/18.jpg",
       "authorName": "Sydney Martinez",
       "postedDate": "2025-01-08",
-      "readingTime": "5 min read",
+      "readingTime": 5,
       "blogTitle": "How to Grow an Organic Garden",
       "hashtags": ["#Gardening", "#Organic", "#Home"]
     },
@@ -86,7 +86,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/men/19.jpg",
       "authorName": "Drew Davis",
       "postedDate": "2025-01-09",
-      "readingTime": "7 min read",
+      "readingTime": 7,
       "blogTitle": "Building Resilience Through Mindfulness",
       "hashtags": ["#Mindfulness", "#MentalHealth", "#Resilience"]
     },
@@ -96,7 +96,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/20.jpg",
       "authorName": "Kendall Clark",
       "postedDate": "2025-01-10",
-      "readingTime": "4 min read",
+      "readingTime": 4,
       "blogTitle": "The Science Behind Intermittent Fasting",
       "hashtags": ["#Fasting", "#Science", "#Wellbeing"]
     },
@@ -108,7 +108,7 @@
       "authorPhoto": "https://randomuser.me/api/portraits/women/120.jpg",
       "authorName": "casey Martinez",
       "postedDate": "2025-04-10",
-      "readingTime": "6 min read",
+      "readingTime": 6,
       "blogTitle": "The Science Behind Intermittent Fasting (9)",
       "hashtags": ["#Fasting", "#Science", "#Wellbeing"]
     }
