@@ -1,6 +1,6 @@
 
 import { CiBookmarkPlus } from "react-icons/ci";
-const Cards = ({blog, handleBookmark}) => {
+const Cards = ({blog, handleBookmark,handleMark}) => {
     const {coverImg,authorPhoto,authorName,postedDate,readingTime,blogTitle,hashtags}=blog
     return (
         <div>
@@ -19,7 +19,7 @@ const Cards = ({blog, handleBookmark}) => {
                         </div>
                     </div>
                     <div className="flex items-center gap-2">
-                        <p className="exo-2 font-semibold opacity-[0.5] mt-0">{readingTime}</p>
+                        <p className="exo-2 font-semibold opacity-[0.5] mt-0">{readingTime} min read</p>
                         <div onClick={()=>handleBookmark(blog)}><CiBookmarkPlus className="h-[60px]" /></div>
 
                     </div>
@@ -28,7 +28,7 @@ const Cards = ({blog, handleBookmark}) => {
                 <div>
                     <h2 className="exo-2 font-bold text-[40px]">{blogTitle}</h2>
                     <p className="font-medium opacity-[0.5]">{hashtags.map(hash=><span>{hash} </span>)}</p>
-                    <button className="text-blue-400 underline font-semibold hover:text-cyan-400">Mark as read</button>
+                    <button className="text-blue-400 underline font-semibold hover:text-cyan-400" onClick={()=>handleMark(readingTime ,blog.id)}>Mark as read</button>
                 </div>
 
             </div>
